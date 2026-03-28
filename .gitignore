@@ -39,3 +39,16 @@
 
 # debug information files
 *.dwo
+
+# 忽略桌面上的大文件夹
+PCL 正式版 2.12./
+ggggggg/
+
+# 忽略快捷方式和临时文件
+*.lnk
+*.url
+*.tmp
+*.Tnk
+desktop.ini
+ntuser.*
+ahcre/
